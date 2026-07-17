@@ -115,7 +115,7 @@ export function Hero() {
                 className="group flex items-center gap-2 rounded-full border border-white/5 bg-neutral-950/40 px-6 py-3 text-sm font-semibold text-neutral-400 backdrop-blur-sm transition-all hover:text-white hover:bg-neutral-900"
               >
                 Download Resume
-                <Download className="h-4 w-4" />
+                <Download className="h-4 w-4 " />
               </a>
             </Magnetic>
           </div>
